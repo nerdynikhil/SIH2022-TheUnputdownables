@@ -150,7 +150,6 @@ div.login .login-card .btn-register {
 
 .home .title {
   margin: 3rem;
-  margin-top: 8%;
 }
 
 .dashboard {
@@ -167,4 +166,20 @@ div.login .login-card .btn-register {
   width: 100%;
   height: 500%;
   background-color: #ccc;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main .logo {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background-color: #fff;
+  padding: 40px;
+  margin: 5%;
+  margin-top: 7%;
 }
