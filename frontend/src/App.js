@@ -3,7 +3,7 @@ import './App.css';
 import { BrowserRouter, Link, Route, Router, Routes } from 'react-router-dom';
 import Home from './components/Home/Home';
 import Login from './components/Home/Login';
-import Dashboard from './components/Dashboard/Dashboard';
+import DashboardTable from './components/Dashboard/DashboardTable';
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <Routes>
         <Route index element={<Home />} />
         <Route path='/login' element={<Login />} />
-        <Route path='/dashboard' element={<Dashboard />} />
+        <Route path='/dashboard' element={<DashboardTable />} />
       </Routes>
     </BrowserRouter>
   );

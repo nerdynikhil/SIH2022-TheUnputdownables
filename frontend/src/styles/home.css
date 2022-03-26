@@ -36,8 +36,7 @@ div.login .login-card .input-group {
   flex-direction: column;
   width: 100%;
 }
-div.login .login-card .input-group input,
-div.login .login-card .input-group select  {
+div.login .login-card .input-group .input {
   font-size: 1.5rem;
   border: none;
   border-bottom: 1.4px solid #ccc;
@@ -46,6 +45,11 @@ div.login .login-card .input-group select  {
   padding: 8px 10px;
   margin-top: 1.5rem;
   color: black;
+}
+
+div.login .login-card .input-group .select {
+  font-size: 1.2rem;
+  margin-top: 3rem;
 }
 
 div.login .login-card .btn-register {
@@ -117,6 +121,16 @@ div.login .login-card .btn-register {
   margin-bottom: 1rem;
   color: #fff;
 }
+.dashboard h1 {
+  font-size: 6rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+.dashboard h2 {
+  font-size: 2.5rem;
+  margin: 1rem;
+  color: #fff;
+}
 .home p {
   font-size: 1.5rem;
 }
@@ -147,4 +161,10 @@ div.login .login-card .btn-register {
 
 .dashboard .table {
   padding: 20px;
+}
+
+.card {
+  width: 100%;
+  height: 500%;
+  background-color: #ccc;
 }
