@@ -1,6 +1,8 @@
 import { UserOutlined } from '@ant-design/icons'
 import { Input, Button, Select } from 'antd'
 import React from 'react'
+import { Link } from "react-router-dom";
+
 import '../../styles/home.css'
 import Nav from './Nav'
 const { Option } = Select;
@@ -25,9 +27,11 @@ const Login = () => {
                         <option value="dosam">Department Of Steel And Mines</option>
                     </select>
                 </div>
-                <Button className="btn-register">Sign up</Button>
+                <Link to="/dashboard" >
+                    <Button className="btn-register">Sign In</Button>
+                </Link>
             </div>
-        </div>
+        </div >
     )
 }
 

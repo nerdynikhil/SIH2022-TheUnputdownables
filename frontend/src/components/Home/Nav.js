@@ -5,7 +5,7 @@ import '../../styles/home.css'
 const Nav = () => {
     return (
         <div className='navbar'>
-            <h2>Logo</h2>
+            <img src="/image/logo.svg" alt='inmines' />
             <ul>
                 <Link to="/">
                     <li>Home</li>
