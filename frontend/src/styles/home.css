@@ -37,7 +37,7 @@ div.login .login-card .input-group {
   width: 100%;
 }
 div.login .login-card .input-group input,
-select {
+div.login .login-card .input-group select  {
   font-size: 1.5rem;
   border: none;
   border-bottom: 1.4px solid #ccc;
@@ -45,17 +45,16 @@ select {
   width: 100%;
   padding: 8px 10px;
   margin-top: 1.5rem;
+  color: black;
 }
-div.login .login-card .input-group select {
-  margin-top: 3rem;
-}
+
 div.login .login-card .btn-register {
-  font-size: 1rem;
+  font-size: 1.2rem;
   border: none;
   border-bottom: 1.4px solid #ccc;
   outline: none;
   width: 100%;
-  padding: 10px;
+  padding: 20px 0;
   margin-top: 3rem;
   border-radius: 5px;
   background-color: #eebc0f;
@@ -147,5 +146,5 @@ div.login .login-card .btn-register {
 }
 
 .dashboard .table {
-  padding: 20px
+  padding: 20px;
 }
