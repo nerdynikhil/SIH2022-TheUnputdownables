@@ -16,8 +16,8 @@ const Login = () => {
                     <p>Select the role to access details?</p>
                 </div>
                 <div className='input-group'>
-                    <Input size="large" prefix={<UserOutlined />} placeholder={'Enter your Full Name'} />
-                    <Input size="large" prefix={<UserOutlined />} placeholder={'Enter your Email Id'} />
+                    <input size="large" prefix={<UserOutlined />} placeholder={'Enter your Full Name'} />
+                    <input size="large" prefix={<UserOutlined />} placeholder={'Enter your Email Id'} />
                     <select
 
                         placeholder="Select a person"
