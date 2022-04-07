@@ -1,4 +1,4 @@
-# Smart India Hacakthon 2022
+# Smart India Hackathon 2022
 
 # Team: TheUnputdownables
 
@@ -32,3 +32,11 @@ Ministry of Mines
 
 ## Domain Bucket	
 Miscellaneous
+
+## Screenshots[WIP]
+![Screen Shot 2022-04-07 at 4 06 27 PM](https://user-images.githubusercontent.com/36399086/162180942-2c9eb84c-8817-494c-9f36-0088f5f399bf.png)
+![Screen Shot 2022-04-07 at 4 07 27 PM](https://user-images.githubusercontent.com/36399086/162180974-5b70fbae-2c30-4751-88ce-dff8e6358899.png)
+![Screen Shot 2022-04-07 at 4 07 39 PM](https://user-images.githubusercontent.com/36399086/162181000-0217d538-c4fb-417a-a0b6-28d69aa4d6fa.png)
+![Screen Shot 2022-04-07 at 4 07 53 PM](https://user-images.githubusercontent.com/36399086/162181024-f0f20c4f-7673-496d-9fdd-ab0c2816fe83.png)
+
+     
